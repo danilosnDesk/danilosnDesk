@@ -1,6 +1,7 @@
 <div id="header" align="left" style="display:flex">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://cdn.pixabay.com/photo/2016/03/31/18/26/coding-1294361_960_720.png" width="300"/>
   <h1>Danilson Kayumbuca</h1>
+  
 </div>
 <div id="badges">
   <a href="your-linkedin-URL">
