@@ -24,7 +24,7 @@
 
 ###
 
-<h5 align="left">Responsável  Trabalhador Ambicioso</h5>
+<h5 align="left">Responsável  Trabalhador </h5>
 
 ###
 
