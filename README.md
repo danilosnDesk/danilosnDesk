@@ -35,10 +35,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQGUN8JbUqUepw/profile-displayphoto-shrink_800_800/0/1676144683148?e=2147483647&v=beta&t=BBeVn0Eoh8JmJLVsOPOBGrgN5t3nQjPZ9hxqv-H5Zk8"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/danilson.abelardo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
