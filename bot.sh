@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Loop para realizar 100 commits
-for i in {1..100}
+for i in {1..500}
 do
     echo "Commit $i"
     echo "Alteração $i" >> README.md  
