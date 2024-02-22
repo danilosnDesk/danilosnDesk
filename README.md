@@ -1,26 +1,22 @@
-<h2 align="left">Hi 👋! I'm  Danny, Fullstack developer</h2>
+<h1 align="left" style="font-size:35px">Hi 👋! I'm  Danny, Fullstack developer</h1>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-</div>
+<div align="left"
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill="#1159cc" d="M122.5 23.9V12.82L95.91 28.3v9.34l-21.28 45.9-10.64 7.33v33.61l22.81-13.15 35.7-87.43zM63.99 66.94L48.04 29.71V19.19l-.11-.06-15.84 9.17v9.34l21.27 47.91 10.63-5.25V66.94z"/><path fill="#127eff" d="M106.55 3.52L79.97 19.09l-.02-.01V29.71L63.99 66.94v12.45l-10.63 6.16-21.27-47.91v-9.36l15.96-9.19-26.6-15.57-15.95 9.3v11.42l35.9 87.2 22.59 13.04V91.72l10.64-6.17-.13-.08 21.41-47.83v-9.36l26.59-15.46-15.95-9.3z"/></svg>
+   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+ <img width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+
+ <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
+
+</div>
 
 ###
 
@@ -48,3 +44,4 @@
 <br clear="both">
 
 ###
+Alteração 1
