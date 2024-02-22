@@ -587,3 +587,4 @@ Alteração 341
 Alteração 342
 Alteração 343
 Alteração 344
+Alteração 345
