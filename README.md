@@ -1,6 +1,5 @@
 <h1 align="left" style="font-size:35px">Hi 👋! I'm  Danny, Fullstack developer</h1>
 
-###
 
 <div align="left"
 
