@@ -1,27 +1,5 @@
-<h1 align="left" style="font-size:35px">Hi 👋! I'm  Danny, Fullstack developer</h1>
-
-<div align="left"
-
-   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
- <img width="60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-
- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-
- <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
-
-</div>
-
+<h1 align="left" style="font-size:35px">Sigo trabalhando...</h1>
 ###
-
-<h5 align="left">Responsável  Trabalhador Ambicioso</h5>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/danilson.abelardo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
